@@ -1,4 +1,4 @@
-public class Simple {
+public class java {
     
     // Simple method to greet
     public static String greet(String name) {
